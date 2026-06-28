@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| **Nama** | [Nama Kamu] |
-| **NIM** | [NIM Kamu] |
+| **Nama** | Arjun Joseph Gulo |
+| **NIM** | 240631100042 |
 | **Judul Aplikasi** | Sistem Pendataan Mahasiswa |
 
 ---
